@@ -15,9 +15,11 @@ Bem-vindo ao **BRASFI Connect**! Este projeto tem como objetivo fornecer uma pla
 
 <details>
 
-<summary>📧 Entrega 1</summary>
+<summary>📧 SR1</summary>
 
 ### 📄 Jira Backlog
+![image](https://github.com/user-attachments/assets/3b9d6e92-5b3f-4b39-9e06-67a1f862c195)
+
 
 </details>
 
