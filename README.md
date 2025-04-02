@@ -72,8 +72,8 @@ Bem-vindo ao **BRASFI Connect**! Este projeto tem como objetivo fornecer uma pla
       </a>
     </td>
         <td align="center">
-      <a href="" title="defina o título do link">
-        <img src="" width="100px;" alt="Foto Julio Vilas Boas"/><br>
+      <a href="https://github.com/JulioVilasBoas" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/167148238?v=4" width="100px;" alt="Foto Julio Vilas Boas"/><br>
         <sub>
           <b>Julio Vilas Boas</b>
         </sub>
