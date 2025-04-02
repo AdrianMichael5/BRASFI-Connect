@@ -18,3 +18,66 @@ Bem-vindo ao **BRASFI Connect**! Este projeto tem como objetivo fornecer uma pla
 - **Backend**: 🚧 Em definição...  
 - **Banco de Dados**: 🚧 Em definição... 
 - **Frontend**: 🚧 Em definição...  
+
+
+## 🤝 Equipe
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AdrianMichael5" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/144910632?v=4" width="100px;" alt="Foto do Adrian Michael"/><br>
+        <sub>
+          <b>Adrian Michael</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arthurlealp" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/167883067?v=4" width="100px;" alt="Foto de Arthur Leal"/><br>
+        <sub>
+          <b>Arthur Leal</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/daviaarruda" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/162374995?v=4" width="100px;" alt="Foto De Davi Arruda"/><br>
+        <sub>
+          <b>Davi Arruda</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Smenelove2" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/186720597?v=4" width="100px;" alt="Foto de Felipe Menelau"/><br>
+        <sub>
+          <b>Felipe Menelau</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/william-mjsouza" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/66651052?v=4" width="100px;" alt="Foto William Souza"/><br>
+        <sub>
+          <b>William Souza</b>
+        </sub>
+      </a>
+    </td>
+         <td align="center">
+      <a href="https://github.com/Thiagovbrayner" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/170368607?v=4" width="100px;" alt="Foto Thiago Brayner"/><br>
+        <sub>
+          <b>Thiago Brayner</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="" title="defina o título do link">
+        <img src="" width="100px;" alt="Foto Julio Vilas Boas"/><br>
+        <sub>
+          <b>Julio Vilas Boas</b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+</table>
