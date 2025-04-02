@@ -13,6 +13,16 @@ Bem-vindo ao **BRASFI Connect**! Este projeto tem como objetivo fornecer uma pla
 
 ![image](https://github.com/user-attachments/assets/bfcb6108-4f4e-4867-9756-26e86c89b253)
 
+<details>
+
+<summary>📧 Entrega 1</summary>
+
+### 📄 Jira Backlog
+
+</details>
+
+![image](https://github.com/user-attachments/assets/bfcb6108-4f4e-4867-9756-26e86c89b253)
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend**: 🚧 Em definição...  
