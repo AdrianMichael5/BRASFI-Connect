@@ -24,10 +24,10 @@ function App(): JSX.Element {
   const [dados, setDados] = useState<ApiResponse | null>(null);
 
   const partners: Partner[] = [
-    { id: 1, name: "Microsoft", logo: "/logomicrosoft.png" },
-    { id: 2, name: "NPGA", logo: "/NPGA-Apoiador1.png" },
-    { id: 3, name: "Brasfi", logo: "/LogoBrasfi.jpg" },
-    { id: 4, name: "CESAR", logo: "/logocesar.png" },
+    { id: 1, name: "Climate Company", logo: "/climatecompanylogo.svg" },
+    { id: 2, name: "lab", logo: "/lablogo.jpg" },
+    { id: 3, name: "unifor", logo: "/uniforlogo2.png" },
+    { id: 4, name: "weesg", logo: "/weesglogo.svg" },
   ];
 
   useEffect(() => {

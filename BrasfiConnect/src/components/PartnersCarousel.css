@@ -1,6 +1,6 @@
 .partners-container {
   width: 100%;
-  max-width: 1280;
+  max-width: 1280px;
   margin: 0 auto;
   overflow: hidden;
   padding: 15px 0;
@@ -16,6 +16,7 @@
 
 .partner-item {
   flex: 0 0 auto;
+  width: 120px;
   height: 80px;
 }
 
@@ -32,18 +33,4 @@
   100% {
     transform: translateX(calc(-100% / 5));
   }
-}
-
-.partners-container::-webkit-scrollbar {
-  display: none;
-}
-
-.partners-container {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-  pointer-events: none;
-}
-
-.partners-container:hover .partners-carousel {
-  animation-play-state: paused;
 }
