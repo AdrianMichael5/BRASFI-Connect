@@ -4,6 +4,10 @@ Bem-vindo ao **BRASFI Connect**! Este projeto tem como objetivo fornecer uma pla
 
 ![image](https://github.com/user-attachments/assets/bfcb6108-4f4e-4867-9756-26e86c89b253)
 
+## 🌐 BRASFI Connect
+
+[![Vercel](https://img.shields.io/badge/BRASFI-00AA00?style=for-the-badge&logo=vercel&logoColor=white)](https://brasfi-connect.vercel.app)
+
 ## 🚀 Funcionalidades
 
 ✔️ **Canal de comunicação** 📢 - Chat e interações entre os membros e apoiadores da BRASFI.  
