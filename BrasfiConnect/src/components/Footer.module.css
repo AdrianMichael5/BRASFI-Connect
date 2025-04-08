@@ -1,5 +1,5 @@
 .footer {
-    background-color: #263238; /* Cinza-azulado escuro, mais sofisticado */
+    background-color: #263238;
     color: white;
     padding: 2rem 0;
 }
@@ -26,11 +26,11 @@
     font-size: 1.125rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    color: #FFFFFF; /* Branco puro para destaque */
+    color: #FFFFFF;
 }
 
 .sectionText {
-    color: #B0BEC5; /* Cinza-azulado claro */
+    color: #B0BEC5;
 }
 
 .list {
@@ -40,12 +40,12 @@
 }
 
 .link {
-    color: #B0BEC5; /* Cinza-azulado claro */
+    color: #B0BEC5;
     text-decoration: none;
 }
 
 .link:hover {
-    color: #4CAF50; /* Verde médio para destacar sustentabilidade */
+    color: #4CAF50;
 }
 
 .socialLinks {
@@ -54,15 +54,15 @@
 }
 
 .socialLink {
-    color: #B0BEC5; /* Cinza-azulado claro */
+    color: #B0BEC5;
 }
 
 .socialLink:hover {
-    color: #4CAF50; /* Verde médio para consistência */
+    color: #4CAF50;
 }
 
 .copyright {
     margin-top: 2rem;
     text-align: center;
-    color: #B0BEC5; /* Cinza-azulado claro */
+    color: #B0BEC5;
 }

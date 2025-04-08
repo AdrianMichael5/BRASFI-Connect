@@ -1,6 +1,6 @@
 .features {
     padding: 4rem 0;
-    background-color: #b2c2b7; /* Verde bem claro para fundo sustentável */
+    background-color: #b2c2b7;
 }
 
 .container {
@@ -14,7 +14,7 @@
     font-weight: bold;
     text-align: center;
     margin-bottom: 3rem;
-    color: #2E7D32; /* Verde escuro para destacar sustentabilidade */
+    color: #2E7D32;
 }
 
 .grid {
@@ -32,28 +32,29 @@
 .card {
     padding: 1.5rem;
     background-color: white;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Suavizado para um visual leve */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     border-radius: 0.5rem;
+    border: 1px solid #4CAF50;
 }
 
 .cardTitle {
     font-size: 1.25rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
-    color: #2E7D32; /* Verde escuro para consistência */
+    color: #2E7D32;
 }
 
 .cardDescription {
-    color: #546E7A; /* Cinza-azulado para profissionalismo */
+    color: #546E7A;
     margin-bottom: 1rem;
 }
 
 .cardLink {
-    color: #4CAF50; /* Verde médio para ação sustentável */
+    color: #4CAF50;
     text-decoration: none;
 }
 
 .cardLink:hover {
-    color: #388E3C; /* Verde mais escuro no hover */
+    color: #388E3C;
     text-decoration: underline;
 }

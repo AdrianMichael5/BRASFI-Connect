@@ -1,6 +1,6 @@
 .transparency {
     padding: 4rem 0;
-    background-color: #d3dbd6; /* Branco puro para contraste e limpeza */
+    background-color: #d3dbd6;
 }
 
 .content {
@@ -14,21 +14,21 @@
     font-size: 1.875rem;
     font-weight: bold;
     margin-bottom: 1rem;
-    color: #2E7D32; /* Verde escuro mantido */
+    color: #2E7D32;
 }
 
 .description {
-    color: #546E7A; /* Cinza-azulado mantido */
+    color: #546E7A;
     margin-bottom: 2rem;
     font-size: 1.2rem;
 }
 
 .link {
-    color: #4CAF50; /* Verde médio mantido */
+    color: #4CAF50;
     text-decoration: none;
 }
 
 .link:hover {
-    color: #388E3C; /* Verde mais escuro no hover */
+    color: #388E3C;
     text-decoration: underline;
 }

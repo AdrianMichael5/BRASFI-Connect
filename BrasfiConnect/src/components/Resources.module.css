@@ -1,6 +1,6 @@
 .resources {
     padding: 4rem 0;
-    background-color: #ECEFF1; /* Verde claro para fundo sustentável */
+    background-color: #ECEFF1;
 }
 
 .container {
@@ -14,7 +14,7 @@
     font-weight: bold;
     text-align: center;
     margin-bottom: 3rem;
-    color: #2E7D32; /* Verde escuro para destaque sustentável */
+    color: #2E7D32;
 }
 
 .grid {
@@ -32,7 +32,7 @@
 .card {
     padding: 1.5rem;
     background-color: white;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Sombra suavizada */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     border-radius: 0.5rem;
 }
 
@@ -40,9 +40,9 @@
     font-size: 1.25rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
-    color: #2E7D32; /* Verde escuro para consistência */
+    color: #2E7D32;
 }
 
 .cardDescription {
-    color: #546E7A; /* Cinza-azulado para profissionalismo */
+    color: #546E7A;
 }
