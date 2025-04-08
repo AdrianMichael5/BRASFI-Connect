@@ -1,0 +1,53 @@
+.partners-container {
+  width: 100%; /* Largura fixa igual à tela */
+  max-width: 1280; /* Limite máximo opcional, ajuste conforme seu design */
+  margin: 0 auto; /* Centraliza o contêiner */
+  overflow: hidden; /* Corta qualquer transbordo */
+  padding: 20px 0;
+  box-sizing: border-box;
+}
+
+.partners-carousel {
+  display: inline-flex;
+  gap: 30px;
+  white-space: nowrap;
+  animation: scroll infinite linear forwards;
+  width: auto; /* O conteúdo interno não afeta o contêiner */
+}
+
+.partner-item {
+  flex: 0 0 auto;
+  width: 150x; /* Tamanho fixo dos itens, ajuste conforme necessário */
+  height: 80px;
+}
+
+.partner-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-100% / 5)); /* Loop com 5 repetições */
+  }
+}
+
+/* Remove barra de rolagem e interação manual */
+.partners-container::-webkit-scrollbar {
+  display: none;
+}
+
+.partners-container {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  pointer-events: none;
+}
+
+/* Pausar ao passar o mouse */
+.partners-container:hover .partners-carousel {
+  animation-play-state: paused;
+}
