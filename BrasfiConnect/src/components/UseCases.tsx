@@ -9,7 +9,7 @@ interface UseCase {
 const useCases: UseCase[] = [
   {
     title: 'Pequenas Empresas',
-    description: 'Cada minuto e cada dólar contam. O Buffer mantém sua presença online prosperando com o mínimo de esforço.',
+    description: 'Cada minuto e cada dólar contam. A BRASFI mantém sua presença online prosperando com o mínimo de esforço.',
   },
   {
     title: 'Criadores',
