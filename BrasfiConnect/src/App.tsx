@@ -27,6 +27,7 @@ function App(): JSX.Element {
     { id: 1, name: "Microsoft", logo: "/logomicrosoft.png" },
     { id: 2, name: "NPGA", logo: "/NPGA-Apoiador1.png" },
     { id: 3, name: "Brasfi", logo: "/LogoBrasfi.jpg" },
+    { id: 3, name: "CESAR", logo: "/logocesar.png" },
   ];
 
   useEffect(() => {

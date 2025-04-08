@@ -1,23 +1,21 @@
 .partners-container {
-  width: 100%; /* Largura fixa igual à tela */
-  max-width: 1280; /* Limite máximo opcional, ajuste conforme seu design */
-  margin: 0 auto; /* Centraliza o contêiner */
-  overflow: hidden; /* Corta qualquer transbordo */
-  padding: 20px 0;
+  width: 100%;
+  max-width: 1280;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 15px 0;
   box-sizing: border-box;
+  background-color: white;
 }
 
 .partners-carousel {
   display: inline-flex;
   gap: 30px;
-  white-space: nowrap;
   animation: scroll infinite linear forwards;
-  width: auto; /* O conteúdo interno não afeta o contêiner */
 }
 
 .partner-item {
   flex: 0 0 auto;
-  width: 150x; /* Tamanho fixo dos itens, ajuste conforme necessário */
   height: 80px;
 }
 
@@ -32,11 +30,10 @@
     transform: translateX(0);
   }
   100% {
-    transform: translateX(calc(-100% / 5)); /* Loop com 5 repetições */
+    transform: translateX(calc(-100% / 5));
   }
 }
 
-/* Remove barra de rolagem e interação manual */
 .partners-container::-webkit-scrollbar {
   display: none;
 }
@@ -47,7 +44,6 @@
   pointer-events: none;
 }
 
-/* Pausar ao passar o mouse */
 .partners-container:hover .partners-carousel {
   animation-play-state: paused;
 }
