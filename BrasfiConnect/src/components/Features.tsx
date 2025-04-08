@@ -8,24 +8,28 @@ interface Feature {
 
 const features: Feature[] = [
   {
-    title: 'Publicar',
-    description: 'Publique automaticamente seu conteúdo ou receba uma notificação quando for a hora de postar.',
+    title: 'Participar de Comunidades',
+    description: 'Crie ou junte-se a comunidades sobre temas que você ama, como "Economia Sustentável ". Escolha entre comunidades públicas ou privadas e conecte-se com pessoas que compartilham seus interesses.',
   },
   {
-    title: 'Engajar',
-    description: 'Gerencie e responda a comentários a partir de um único painel simples.',
+    title: 'Canais de Texto',
+    description: 'Participe de canais organizados, como "Dicas de Sustentabilidade", para trocar ideias com outros membros. Administradores podem criar canais com permissões específicas, garantindo uma comunicação clara e focada.',
   },
   {
-    title: 'Analisar',
-    description: 'Veja os melhores horários, formatos e frequências para postar.',
+    title: 'Interagir no Feed',
+    description: 'Veja postagens de administradores e moderadores no feed, como avisos ou imagens educativas sobre sustentabilidade. Interaja com o conteúdo e fique por dentro das novidades da comunidade.',
   },
   {
-    title: 'Criar',
-    description: 'Importe conteúdo do Canva, Dropbox, Google e mais.',
+    title: 'Mensagens Privadas',
+    description: 'Converse diretamente com outros membros por mensagens privadas. Receba notificações de novas mensagens e mantenha a comunicação fluida e segura.',
   },
   {
-    title: 'Colaborar',
-    description: 'Convide colaboradores ilimitados e atribua funções.',
+    title: 'Apoie ideias',
+    description: 'Você pode apoiar comunidades que se indentificar.',
+  },
+  {
+    title: 'Gerenciar Perfil',
+    description: 'Personalize seu perfil com foto, biografia e configurações de privacidade. Escolha quem pode ver suas postagens e mantenha o controle da sua experiência na plataforma.',
   },
 ];
 

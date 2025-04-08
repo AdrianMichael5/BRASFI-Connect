@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import PartnersCarousel from "./components/PartnersCarousel";
 import Features from "./components/Features";
-import UseCases from "./components/UseCases";
+import BenefitsSection from "./components/BenefitsSection"; // Importe o novo componente
 import Transparency from "./components/Transparency";
 import Resources from "./components/Resources";
 import Footer from "./components/Footer";
@@ -27,7 +27,7 @@ function App(): JSX.Element {
     { id: 1, name: "Microsoft", logo: "/logomicrosoft.png" },
     { id: 2, name: "NPGA", logo: "/NPGA-Apoiador1.png" },
     { id: 3, name: "Brasfi", logo: "/LogoBrasfi.jpg" },
-    { id: 3, name: "CESAR", logo: "/logocesar.png" },
+    { id: 4, name: "CESAR", logo: "/logocesar.png" },
   ];
 
   useEffect(() => {
@@ -44,7 +44,7 @@ function App(): JSX.Element {
         <Hero dados={dados} />
         <PartnersCarousel speed={2} partners={partners} />
         <Features />
-        <UseCases />
+        <BenefitsSection /> {/* Adicionei aqui */}
         <Transparency />
         <Resources />
       </main>
