@@ -9,7 +9,7 @@
 
 /* Contêiner do carrossel */
 .partners-container {
-  width: 100%;
+  width: 99vw;
   max-width: 1920px; /* Corrige para 1920px */
   margin: 0 auto;
   overflow: hidden;

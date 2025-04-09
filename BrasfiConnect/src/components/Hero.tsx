@@ -20,7 +20,7 @@ function Hero({ dados }: HeroProps): JSX.Element {
           </p>
         ) : (
           <p className={styles.backendMessage}>
-            Carregando dados do backend...
+
           </p>
         )}
         <div className={styles.buttons}>

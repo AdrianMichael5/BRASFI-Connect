@@ -43,7 +43,6 @@ function Features(): JSX.Element {
             <div key={index} className={styles.card}>
               <h3 className={styles.cardTitle}>{feature.title}</h3>
               <p className={styles.cardDescription}>{feature.description}</p>
-              <a href="#" className={styles.cardLink}>Saiba Mais</a>
             </div>
           ))}
         </div>
