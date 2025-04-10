@@ -8,6 +8,7 @@ import BenefitsSection from "./components/BenefitsSection"; // Importe o novo co
 import Transparency from "./components/Transparency";
 import Resources from "./components/Resources";
 import Footer from "./components/Footer";
+import page from "./app/page"
 import "./App.css";
 
 interface ApiResponse {

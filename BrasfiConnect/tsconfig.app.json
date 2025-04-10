@@ -7,7 +7,11 @@
     "moduleResolution": "bundler",
     "strict": true,
     "noEmit": true,
-    "allowImportingTsExtensions": true // Adicione esta linha
+    "allowImportingTsExtensions": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"]
+    }
   },
   "include": ["src"]
 }
