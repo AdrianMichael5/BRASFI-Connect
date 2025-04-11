@@ -1,14 +1,13 @@
 import { JSX } from "react";
 import { useEffect, useState } from "react";
-import Header from "./components/Header";
-import Hero from "./components/Hero";
-import PartnersCarousel from "./components/PartnersCarousel";
-import Features from "./components/Features";
-import BenefitsSection from "./components/BenefitsSection"; // Importe o novo componente
-import Transparency from "./components/Transparency";
-import Resources from "./components/Resources";
-import Footer from "./components/Footer";
-import page from "./app/page"
+import Header from "./components/Header/Header";
+import Hero from "./components/Hero/Hero";
+import PartnersCarousel from "./components/PartnersCarousel/PartnersCarousel";
+import Features from "./components/Features/Features";
+import BenefitsSection from "./components/BenefitsSection/BenefitsSection"; // Importe o novo componente
+import Transparency from "./components/Transparency/Transparency";
+import Testimonial from "./components/Testimonial/Testimonial";
+import Footer from "./components/Footer/Footer";
 import "./App.css";
 
 interface ApiResponse {
@@ -45,9 +44,9 @@ function App(): JSX.Element {
         <Hero dados={dados} />
         <PartnersCarousel speed={2} partners={partners} />
         <Features />
-        <BenefitsSection /> {/* Adicionei aqui */}
+        <BenefitsSection />
+        <Testimonial />
         <Transparency />
-        <Resources />
       </main>
       <Footer />
     </div>
